@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-07T11:40:07.672Z</updated>
+  <updated>2021-04-07T11:42:56.214Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2021/04/07/%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE-week01/"/>
     <id>http://example.com/2021/04/07/%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE-week01/</id>
     <published>2021-04-07T11:38:39.000Z</published>
-    <updated>2021-04-07T11:40:07.672Z</updated>
+    <updated>2021-04-07T11:42:56.214Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/4e7ff02b5049570abb2d1e5db9a8cb8.jpg" alt="4e7ff02b5049570abb2d1e5db9a8cb8"></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/4e7ff02b5049570abb2d1e5db9a8cb8.jpg" alt="4e7ff02b5049570abb2d1e5db9a8cb8" style="zoom:25%;" />]]></content>
     
     
       
