@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-07T11:55:33.985Z</updated>
+  <updated>2021-04-11T04:03:07.744Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每周一图-Week02</title>
+    <link href="http://example.com/2021/04/11/%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE-week02/"/>
+    <id>http://example.com/2021/04/11/%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE-week02/</id>
+    <published>2021-04-11T03:58:01.000Z</published>
+    <updated>2021-04-11T04:03:07.744Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/5eed5f76d626d2b3a43b75f611eff81.jpg" alt="4e7ff02b5049570abb2d1e5db9a8cb8" style="zoom:25%;" width = "1125" height = "1500" alt="git" />]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="每周一图" scheme="http://example.com/tags/%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021/4/5-4/11阅读归档</title>
+    <link href="http://example.com/2021/04/11/2021-4-5-4-11%E9%98%85%E8%AF%BB%E5%BD%92%E6%A1%A3/"/>
+    <id>http://example.com/2021/04/11/2021-4-5-4-11%E9%98%85%E8%AF%BB%E5%BD%92%E6%A1%A3/</id>
+    <published>2021-04-11T03:42:32.000Z</published>
+    <updated>2021-04-11T03:57:17.687Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>以下为本周阅读归档。</p><span id="more"></span><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p><a href="https://www.instapaper.com/read/1402793982">《一周影视推荐》</a></p><p><a href="https://www.instapaper.com/read/1402646446">《进击的巨人完结》</a></p><p>虽然内心充满对第139话大结局的吐槽及无语，但不得不说作者用漫画和十一年的时间讲了个好故事，祝他的温泉馆事业顺利。</p><p><a href="https://www.instapaper.com/read/1401432587">《贵阳小吃推荐》</a></p><p>城市收藏夹项目</p><h2 id="可能会尝试的"><a href="#可能会尝试的" class="headerlink" title="可能会尝试的"></a>可能会尝试的</h2><p><a href="https://www.instapaper.com/read/1402794386">《命令行工具使用网页服务》</a></p><p>看起来非常极客但是为什么要用命令行来看天气呢？PicGo-core 倒是应该会去尝试一下。</p><h2 id="社会观察"><a href="#社会观察" class="headerlink" title="社会观察"></a>社会观察</h2><p><a href="https://www.instapaper.com/read/1401404989">《被制造的敏感肌》</a></p><p>高亮加粗：<strong>在医学界并没有敏感肌这一专门术语。</strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;序言&quot;&gt;&lt;a href=&quot;#序言&quot; class=&quot;headerlink&quot; title=&quot;序言&quot;&gt;&lt;/a&gt;序言&lt;/h2&gt;&lt;p&gt;以下为本周阅读归档。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="weekly record" scheme="http://example.com/tags/weekly-record/"/>
+    
+  </entry>
   
   <entry>
     <title>每周一图 Week01</title>
@@ -164,9 +205,9 @@
     <link href="http://example.com/2021/03/13/%E7%83%A7%E9%A6%99%E8%AE%B0/"/>
     <id>http://example.com/2021/03/13/%E7%83%A7%E9%A6%99%E8%AE%B0/</id>
     <published>2021-03-13T13:21:10.000Z</published>
-    <updated>2021-04-02T07:08:18.062Z</updated>
+    <updated>2021-04-07T12:14:49.531Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>小K终于下定决心去烧香。</p><span id="more"></span><p>小K最近觉得自己压力很大。</p><p>这是小K学医的第五年，虽然在此前的几年里他时常感到压力很大，但最近的压力对他而言无疑是近几年的高峰了。</p><p>对于八年制的临床医学生来讲，大六选导师是一个巨大的门槛，今后的职业道路也基本上会在这几个月里决定下来。为此早在近乎大半年前班里的同学们就开始有所行动了。正所谓八仙过海各显神通，选导师期间各路信息交汇暗流涌动，早已在140个人的小社会里形成了一套独有的交流体系，奇闻轶事也是层出不穷目不暇接，一时间在年级里带起一股选导浪潮。</p><p>小K最开始还不是很慌。</p><blockquote><p>“那么多导师，总会有适合我的愿意要我吧”</p></blockquote><p>他这样想。直到目力所及的手握资源的导师都被占了坑位，自己的dream department联系了好几家，却也最后因为各式各样的原因被婉拒，他才开始真正意识到问题的严峻性。</p><p>3月开学的上海一扫春天本应该有的明媚气氛，连着几天阴雨绵绵。手头的科创项目的实验已经卡了两个月了，最近几周依然做不出任何阳性结果；虽然本学期回归了线下教学，但所有的专业课还是拉了微信群，他每天的大部分课后时间还得奔波在在20来个不明所以的线上群聊里完成不明所以的课后任务；仿佛为了应和学业上的失意，基金股市的行情也在一路走低，眼看他春节压岁钱重仓的人生第一笔投资就要净亏损50%了，小K终于决定去龙华寺烧香。</p><p>选择龙华寺不是没有理由的，在此之前他就已经从各路师兄师姐那听闻龙华寺神力通广，相较于隔壁静安寺而言，龙华寺在个人事业方面的祈愿上达成率更高。本着科学循证的态度，在出发前小K发布了问卷，计算比较了两寺香火显灵试验的似然比与ROC曲线，用客观证据有力辅佐了自己去龙华寺的选择。</p><p>于是他在又一个难眠的夜晚出发。</p><p>为了展现自己的虔诚以及达到最好的状态，他通宵看了一夜文献。在晨间五点沐浴更衣，吃一个百香果，徒步进龙华寺。一路上在每个红绿灯默诵一句阿弥陀佛，走了约莫个把小时，额头上出一层细汗，阿弥陀佛和学界大牛的名字也念了百遍，终于进了庙门。进门后的一举一动他更是谨慎恭敬，走一步念一句CNS，跨一步说一句保佑老板选我，走三步停三步拜三下。一路到香火炉前，投罢香钱，接过火烛，恭敬上了。这开头算是分毫不差的完美结束了。</p><p>接着他领过叩跪用的纤维垫，快步颔首爬上殿前石级，来到金佛像前。双手合十，默诵实验方法，叩首三下，礼毕起身，恰逢朝日萌出，殿内金辉遍撒。小K一阵恍惚，他也分不清这到底是体位性低血压还是没吃早饭的低血糖还是一夜没睡的困倦，他只看到眼前的一尊佛变成一千尊佛，莲花转动，眉目流转，万佛齐颂，庄严森罗。嗡鸣声和诵经声充斥着他的内外耳道，轰击着他的胸腔发出回响。心脏在狂跳，他觉得自己的左第五肋间有一股温暖又暴烈的洪流正在尝试挣脱束缚喷涌而出，殿外的钟声响了，和心跳声、经文声非同源重组又融合。他正站在这和谐湍流的正中央，他看到未来正在他眼前展开，无数文章科研写作思路泉涌上头，内外妇儿急症要义凛然于胸，心愿飞升，自此功成名就平步青云，万科争宠。</p><p>小K笑了，从开始的微笑到最后的癫狂，他确信自己看到了真理，他已经飞升，跨越无量三生，来到菩提树下，他看到了佛。佛微微张口，小K赶忙上前俯首等待教诲，只听得忽远忽近处遥遥传来一句：</p><blockquote><p>“神经病学布置新的作业了。”</p></blockquote><p><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/ec80d71b6ed37f0452a19aefe08e28c.jpg" alt="ec80d71b6ed37f0452a19aefe08e28c"></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>小K终于下定决心去烧香。</p><span id="more"></span><p>小K最近觉得自己压力很大。</p><p>这是小K学医的第五年，虽然在此前的几年里他时常感到压力很大，但最近的压力对他而言无疑是近几年的高峰了。</p><p>对于八年制的临床医学生来讲，大六选导师是一个巨大的门槛，今后的职业道路也基本上会在这几个月里决定下来。为此早在近乎大半年前班里的同学们就开始有所行动了。正所谓八仙过海各显神通，选导师期间各路信息交汇暗流涌动，早已在140个人的小社会里形成了一套独有的交流体系，奇闻轶事也是层出不穷目不暇接，一时间在年级里带起一股选导浪潮。</p><p>小K最开始还不是很慌。</p><blockquote><p>“那么多导师，总会有适合我的愿意要我吧”</p></blockquote><p>他这样想。直到目力所及的手握资源的导师都被占了坑位，自己的dream department联系了好几家，却也最后因为各式各样的原因被婉拒，他才开始真正意识到问题的严峻性。</p><p>3月开学的上海一扫春天本应该有的明媚气氛，连着几天阴雨绵绵。手头的科创项目的实验已经卡了两个月了，最近几周依然做不出任何阳性结果；虽然本学期回归了线下教学，但所有的专业课还是拉了微信群，他每天的大部分课后时间还得奔波在在20来个不明所以的线上群聊里完成不明所以的课后任务；仿佛为了应和学业上的失意，基金股市的行情也在一路走低，眼看他春节压岁钱重仓的人生第一笔投资就要净亏损50%了，小K终于决定去龙华寺烧香。</p><p>选择龙华寺不是没有理由的，在此之前他就已经从各路师兄师姐那听闻龙华寺神力通广，相较于隔壁静安寺而言，龙华寺在个人事业方面的祈愿上达成率更高。本着科学循证的态度，在出发前小K发布了问卷，计算比较了两寺香火显灵试验的似然比与ROC曲线，用客观证据有力辅佐了自己去龙华寺的选择。</p><p>于是他在又一个难眠的夜晚出发。</p><p>为了展现自己的虔诚以及达到最好的状态，他通宵看了一夜文献。在晨间五点沐浴更衣，吃一个百香果，徒步进龙华寺。一路上在每个红绿灯默诵一句阿弥陀佛，走了约莫个把小时，额头上出一层细汗，阿弥陀佛和学界大牛的名字也念了百遍，终于进了庙门。进门后的一举一动他更是谨慎恭敬，走一步念一句CNS，跨一步说一句保佑老板选我，走三步停三步拜三下。一路到香火炉前，投罢香钱，接过火烛，恭敬上了。这开头算是分毫不差的完美结束了。</p><p>接着他领过叩跪用的纤维垫，快步颔首爬上殿前石级，来到金佛像前。双手合十，默诵实验方法，叩首三下，礼毕起身，恰逢朝日萌出，殿内金辉遍撒。小K一阵恍惚，他也分不清这到底是体位性低血压还是没吃早饭的低血糖还是一夜没睡的困倦，他只看到眼前的一尊佛变成一千尊佛，莲花转动，眉目流转，万佛齐颂，庄严森罗。嗡鸣声和诵经声充斥着他的内外耳道，轰击着他的胸腔发出回响。心脏在狂跳，他觉得自己的左第五肋间有一股温暖又暴烈的洪流正在尝试挣脱束缚喷涌而出，殿外的钟声响了，和心跳声、经文声非同源重组又融合。他正站在这和谐湍流的正中央，他看到未来正在他眼前展开，无数文章科研写作思路泉涌上头，内外妇儿急症要义凛然于胸，心愿飞升，自此功成名就平步青云，万科争宠。</p><p>小K笑了，从开始的微笑到最后的癫狂，他确信自己看到了真理，他已经飞升，跨越无量三生，来到菩提树下，他看到了佛。佛微微张口，小K赶忙上前俯首等待教诲，只听得忽远忽近处遥遥传来一句：</p><blockquote><p>“神经病学布置新的作业了。”</p></blockquote><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/ec80d71b6ed37f0452a19aefe08e28c.jpg" alt="4e7ff02b5049570abb2d1e5db9a8cb8" style="zoom:50%;" alt="git" />]]></content>
     
     
     <summary type="html">&lt;p&gt;小K终于下定决心去烧香。&lt;/p&gt;</summary>
