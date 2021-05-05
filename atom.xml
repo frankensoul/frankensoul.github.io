@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-05T06:25:33.182Z</updated>
+  <updated>2021-05-05T07:34:52.788Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生信学习笔记-SPIA通路影响分析（待施工）</title>
+    <link href="http://example.com/2021/05/05/%E7%94%9F%E4%BF%A1%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-SPIA%E9%80%9A%E8%B7%AF%E5%BD%B1%E5%93%8D%E5%88%86%E6%9E%90/"/>
+    <id>http://example.com/2021/05/05/%E7%94%9F%E4%BF%A1%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-SPIA%E9%80%9A%E8%B7%AF%E5%BD%B1%E5%93%8D%E5%88%86%E6%9E%90/</id>
+    <published>2021-05-05T07:32:37.000Z</published>
+    <updated>2021-05-05T07:34:52.788Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="学习笔记" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="R语言" scheme="http://example.com/tags/R%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生信学习笔记-Nomogram作图（待施工）</title>
+    <link href="http://example.com/2021/05/05/%E7%94%9F%E4%BF%A1%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-nomogram%E4%BD%9C%E5%9B%BE/"/>
+    <id>http://example.com/2021/05/05/%E7%94%9F%E4%BF%A1%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-nomogram%E4%BD%9C%E5%9B%BE/</id>
+    <published>2021-05-05T07:31:59.000Z</published>
+    <updated>2021-05-05T07:34:22.842Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="学习笔记" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="R语言" scheme="http://example.com/tags/R%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
   
   <entry>
     <title>每周一图-Week05</title>
@@ -228,7 +276,7 @@
     <published>2021-04-02T07:42:36.000Z</published>
     <updated>2021-04-02T08:25:21.490Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>喉返神经电台是我2018年12月到2019年10月在当时的公众号尝试玩的音频混缩项目。</p><span id="more"></span><p>电台的主要灵感来源于最喜欢电台《西海之声》的子项目《尾灯计划》以及主持人中Bini的个人项目《魔山》，主要内容是尝试把一些文字朗诵用人工语音识别出来然后剪辑混入一些歌里，算是半音乐推荐半文学创作（大言不惭）。</p><p>电台的名字是大三上半学期学习系统解剖学和在地下自习室某个背诵生物化学期末考试的窒息瞬间想到的。喉返神经走行于甲状腺两旁，支配除环甲肌之外的其他所有喉肌，在甲状腺手术当中，喉返神经损伤所导致的声音嘶哑作为并发症之一非常常见，双侧喉返神经损伤亦可引起呼吸困难引起窒息。这大概可以概括我那一段时间的状态，想要呐喊却发不出声音。地下自习室是一个能容纳500人的24小时通宵自习室，期末季的时候在一天的任何一个时段几乎都能达到50%的满座率，高峰时间段自然是一座难求。那一年的大多数时间我都在地下自习室度过，闷热的空气和高浓度二氧化碳在生理层面把我感受到的痛苦具现化，电台是我当时选择的发声出口。不过后来也在疫情和公众号注销的消磨里逐渐淡忘了。</p><p>前两天清理电脑的时候偶然发现了遗留在本地的第3，4，5期，存档在这里。</p><p>enjoy</p><center>        <div id="aplayer-jwuWXrNu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-jwuWXrNu"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第03期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B003_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>        <div id="aplayer-OHtdNgIL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-OHtdNgIL"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第04期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B004_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>        <div id="aplayer-JkAJwOfz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-JkAJwOfz"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第05期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B005%20_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><center>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>喉返神经电台是我2018年12月到2019年10月在当时的公众号尝试玩的音频混缩项目。</p><span id="more"></span><p>电台的主要灵感来源于最喜欢电台《西海之声》的子项目《尾灯计划》以及主持人中Bini的个人项目《魔山》，主要内容是尝试把一些文字朗诵用人工语音识别出来然后剪辑混入一些歌里，算是半音乐推荐半文学创作（大言不惭）。</p><p>电台的名字是大三上半学期学习系统解剖学和在地下自习室某个背诵生物化学期末考试的窒息瞬间想到的。喉返神经走行于甲状腺两旁，支配除环甲肌之外的其他所有喉肌，在甲状腺手术当中，喉返神经损伤所导致的声音嘶哑作为并发症之一非常常见，双侧喉返神经损伤亦可引起呼吸困难引起窒息。这大概可以概括我那一段时间的状态，想要呐喊却发不出声音。地下自习室是一个能容纳500人的24小时通宵自习室，期末季的时候在一天的任何一个时段几乎都能达到50%的满座率，高峰时间段自然是一座难求。那一年的大多数时间我都在地下自习室度过，闷热的空气和高浓度二氧化碳在生理层面把我感受到的痛苦具现化，电台是我当时选择的发声出口。不过后来也在疫情和公众号注销的消磨里逐渐淡忘了。</p><p>前两天清理电脑的时候偶然发现了遗留在本地的第3，4，5期，存档在这里。</p><p>enjoy</p><center>        <div id="aplayer-uGvclEDd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-uGvclEDd"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第03期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B003_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>        <div id="aplayer-INWgsAYu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-INWgsAYu"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第04期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B004_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>        <div id="aplayer-aaXuPMRZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-aaXuPMRZ"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第05期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B005%20_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><center>]]></content>
     
     
     <summary type="html">&lt;p&gt;喉返神经电台是我2018年12月到2019年10月在当时的公众号尝试玩的音频混缩项目。&lt;/p&gt;</summary>
@@ -236,9 +284,9 @@
     
     
     
-    <category term="旧文搬运" scheme="http://example.com/tags/%E6%97%A7%E6%96%87%E6%90%AC%E8%BF%90/"/>
-    
     <category term="电台" scheme="http://example.com/tags/%E7%94%B5%E5%8F%B0/"/>
+    
+    <category term="旧文搬运" scheme="http://example.com/tags/%E6%97%A7%E6%96%87%E6%90%AC%E8%BF%90/"/>
     
   </entry>
   
@@ -249,7 +297,7 @@
     <published>2021-04-01T08:57:28.000Z</published>
     <updated>2021-04-02T07:21:53.317Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>流行病学课程过于让人不能平复心情，为了拯救注意力解决了之前遗留的博客音乐播放器的问题，终于可以开音乐推荐的坑了哈哈哈哈哈。</p><span id="more"></span><p>序</p><p>发端似乎在2013年<br>一次出河北去西北<br>火车钻入太行山腹<br>景色突然叠加变幻<br>山脚的村庄还运行着古老仁慈的秩序<br>而对面山腰<br>炸药歌舞团的表演拉开大幕<br>神话握手现代化<br>启动了荒原上最悲怆的谜语</p><p>那一次眩晕令人至今难忘<br>之后就开始旷日持久的漫游解谜<br>偶尔是美妙的精神游艺<br>更多时候则不得不面对<br>内部的洪水和外部的歧路<br>像一个胸闷的哑巴<br>打不赢就大醉一场<br>丢人并且伤神</p><p>漫游搞复杂了，抬头已是2020<br>这几年间，气象风物变化急促<br>几人仍眼睛明亮，几人已失了魂？<br>感谢大家还有耐心听完这样一张唱片<br>轨迹和谜底都录在这44分22秒之中<br>各位可自助提取</p><p>西郊有密林 助君出重围</p><p>姬赓<br>2020.12.16</p><center>        <div id="aplayer-cyEGzBJZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-cyEGzBJZ"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "冀西南林路行",              author: "万能青年旅店",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E5%86%80%E8%A5%BF%E5%8D%97%E6%9E%97%E8%B7%AF%E8%A1%8C%20(%E4%B8%93%E8%BE%91%E5%85%A8%E9%95%BF).mp3",              pic: "/2021/04/01/专辑推荐《冀西南林路行》/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><center>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>流行病学课程过于让人不能平复心情，为了拯救注意力解决了之前遗留的博客音乐播放器的问题，终于可以开音乐推荐的坑了哈哈哈哈哈。</p><span id="more"></span><p>序</p><p>发端似乎在2013年<br>一次出河北去西北<br>火车钻入太行山腹<br>景色突然叠加变幻<br>山脚的村庄还运行着古老仁慈的秩序<br>而对面山腰<br>炸药歌舞团的表演拉开大幕<br>神话握手现代化<br>启动了荒原上最悲怆的谜语</p><p>那一次眩晕令人至今难忘<br>之后就开始旷日持久的漫游解谜<br>偶尔是美妙的精神游艺<br>更多时候则不得不面对<br>内部的洪水和外部的歧路<br>像一个胸闷的哑巴<br>打不赢就大醉一场<br>丢人并且伤神</p><p>漫游搞复杂了，抬头已是2020<br>这几年间，气象风物变化急促<br>几人仍眼睛明亮，几人已失了魂？<br>感谢大家还有耐心听完这样一张唱片<br>轨迹和谜底都录在这44分22秒之中<br>各位可自助提取</p><p>西郊有密林 助君出重围</p><p>姬赓<br>2020.12.16</p><center>        <div id="aplayer-lvKnZEvE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-lvKnZEvE"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "冀西南林路行",              author: "万能青年旅店",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E5%86%80%E8%A5%BF%E5%8D%97%E6%9E%97%E8%B7%AF%E8%A1%8C%20(%E4%B8%93%E8%BE%91%E5%85%A8%E9%95%BF).mp3",              pic: "/2021/04/01/专辑推荐《冀西南林路行》/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><center>]]></content>
     
     
     <summary type="html">&lt;p&gt;流行病学课程过于让人不能平复心情，为了拯救注意力解决了之前遗留的博客音乐播放器的问题，终于可以开音乐推荐的坑了哈哈哈哈哈。&lt;/p&gt;</summary>
@@ -374,44 +422,6 @@
     
     
     <summary type="html">&lt;p&gt;日本語の動詞表（つづく）&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="学习笔记" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>日本語の形容詞表（つづく）</title>
-    <link href="http://example.com/2021/03/08/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E5%BD%A2%E5%AE%B9%E8%A9%9E%E8%A1%A8%EF%BC%88%E3%81%A4%E3%81%A5%E3%81%8F%EF%BC%89/"/>
-    <id>http://example.com/2021/03/08/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E5%BD%A2%E5%AE%B9%E8%A9%9E%E8%A1%A8%EF%BC%88%E3%81%A4%E3%81%A5%E3%81%8F%EF%BC%89/</id>
-    <published>2021-03-08T08:24:01.000Z</published>
-    <updated>2021-03-09T04:28:08.450Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>日本語の形容詞表（つづく）</p><span id="more"></span><table><thead><tr><th>word</th><th>definition</th><th>イ形容詞／ナ形容詞</th></tr></thead><tbody><tr><td>辛い（からい）</td><td>spicy</td><td>1</td></tr><tr><td>甘い（あまい）</td><td>sweet</td><td>1</td></tr><tr><td>塩辛い（しおからい）</td><td>salty</td><td>1</td></tr><tr><td>しょっぱい</td><td>salty</td><td>1</td></tr><tr><td>酸っぱい（すっぱい）</td><td>sour</td><td>1</td></tr><tr><td>苦い（にがい）</td><td>bitter</td><td>1</td></tr><tr><td>美味しい（おいしい）</td><td>delicious</td><td>1</td></tr><tr><td>まずい</td><td>unsavoury</td><td>1</td></tr><tr><td>熱い（あつい）</td><td>hot</td><td>1</td></tr><tr><td>冷たい（つめたい）</td><td>cool</td><td>1</td></tr><tr><td>楽しい（たのしい）</td><td>happy</td><td>1</td></tr><tr><td>面白い（おもしろい）</td><td>interesting</td><td>1</td></tr><tr><td>つまらない</td><td>boring</td><td>1</td></tr><tr><td>広い（ひろい）</td><td>wide</td><td>1</td></tr><tr><td>狭い（せまい）</td><td>narrow</td><td>1</td></tr><tr><td>大きい（おおきい）</td><td>big</td><td>1</td></tr><tr><td>小さい（ちいさい）</td><td>small</td><td>1</td></tr><tr><td>忙しい（いそがしい）</td><td>busy</td><td>1</td></tr><tr><td>いい</td><td>good</td><td>1</td></tr><tr><td>悪い（わるい）</td><td>bad</td><td>1</td></tr><tr><td>素晴らしい（すばらしい）</td><td>magnificant</td><td>1</td></tr><tr><td>遠い（とおい）</td><td>far</td><td>1</td></tr><tr><td>近い（ちかい）</td><td>near</td><td>1</td></tr><tr><td>高い（たかい）</td><td>high/expensive</td><td>1</td></tr><tr><td>低い（ひくい）</td><td>low</td><td>1</td></tr><tr><td>安い（やすい）</td><td>cheap</td><td>1</td></tr><tr><td>寒い（さむい）</td><td>cold</td><td>1</td></tr><tr><td>暑い（あつい）</td><td>hot(weather)</td><td>1</td></tr><tr><td>青い（あおい）</td><td>blue</td><td>1</td></tr><tr><td>白い（しろい）</td><td>white</td><td>1</td></tr><tr><td>新しい（あたらしい）</td><td>new</td><td>1</td></tr><tr><td>ふるい（古い）</td><td>old</td><td>1</td></tr><tr><td>難しい（むずかしい）</td><td>difficult</td><td>1</td></tr><tr><td>多い（おおい）</td><td>many</td><td>1</td></tr><tr><td>少ない（すくない）</td><td>less</td><td>1</td></tr><tr><td>可愛い（かわいい）</td><td>cute</td><td>1</td></tr><tr><td>汚い（きたない）</td><td>dirty</td><td>1</td></tr><tr><td>綺麗（きれい）</td><td>clean/beautiful</td><td>2</td></tr><tr><td>有名（ゆうめい）</td><td>famous</td><td>2</td></tr><tr><td>賑やか（にぎやか）</td><td>bustling</td><td>2</td></tr><tr><td>静か（しずか）</td><td>quiet</td><td>2</td></tr><tr><td>暇（ひま）</td><td>empty</td><td>2</td></tr><tr><td>親切（しんせつ）</td><td>enthusiasm</td><td>2</td></tr><tr><td>好き（すき）</td><td>like</td><td>2</td></tr><tr><td>嫌い（きらい）</td><td>disgusting</td><td>2</td></tr><tr><td>便利（べんり）</td><td>convinient</td><td>2</td></tr><tr><td>不便（ふべん）</td><td>inconvinient</td><td>2</td></tr><tr><td>元気（げんき）</td><td>vigorous</td><td>2</td></tr><tr><td>簡単（かんたん）</td><td>easy</td><td>2</td></tr><tr><td>ハンサム</td><td>handsome</td><td>2</td></tr><tr><td>怖い（こわい）</td><td>scary</td><td>1</td></tr><tr><td>赤い（あかい）</td><td>red</td><td>1</td></tr><tr><td>痛い（いたい）</td><td>hurt</td><td>1</td></tr><tr><td>上手（じょうず）</td><td>be good at</td><td>2</td></tr><tr><td>下手（へた）</td><td>be bad at</td><td>2</td></tr><tr><td>苦手（にがて）</td><td>be bad at （not like）</td><td>2</td></tr><tr><td>大好き（だいすき）</td><td>very like</td><td>2</td></tr><tr><td>若い（わかい）</td><td>young</td><td>1</td></tr><tr><td>暖かい（あたたかい）</td><td>warm</td><td>1</td></tr><tr><td>涼しい（すずしい）</td><td>cool</td><td>1</td></tr><tr><td>速い（はやい）</td><td>quick</td><td>1</td></tr><tr><td>暗い（くらい）</td><td></td><td></td></tr><tr><td>大変（たいへん）</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;日本語の形容詞表（つづく）&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="学习笔记" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>日本語の文法（つづく）</title>
-    <link href="http://example.com/2021/03/08/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%96%87%E6%B3%95%EF%BC%88%E3%81%A4%E3%81%A5%E3%81%8F%EF%BC%89/"/>
-    <id>http://example.com/2021/03/08/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%96%87%E6%B3%95%EF%BC%88%E3%81%A4%E3%81%A5%E3%81%8F%EF%BC%89/</id>
-    <published>2021-03-08T08:24:01.000Z</published>
-    <updated>2021-03-09T04:28:18.542Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="基础知识"><a href="#基础知识" class="headerlink" title="基础知识"></a>基础知识</h1><h2 id="日语词类分类"><a href="#日语词类分类" class="headerlink" title="日语词类分类"></a>日语词类分类</h2><span id="more"></span><p><img src="C:\Users\think\Desktop\词类.png" alt="词类"></p><h2 id="代词"><a href="#代词" class="headerlink" title="代词"></a>代词</h2><table><thead><tr><th>事物代词</th><th>连体词</th><th>场所代词</th><th>方向代词</th><th></th></tr></thead><tbody><tr><td>これ</td><td>この</td><td>ここ</td><td>こちら</td><td>近称</td></tr><tr><td>それ</td><td>その</td><td>そこ</td><td>そちら</td><td>中称</td></tr><tr><td>あれ</td><td>あの</td><td>あそこ</td><td>あちら</td><td>远称</td></tr><tr><td>どれ</td><td>どの</td><td>どこ</td><td>どちら</td><td>不定称</td></tr><tr><td>指代事物</td><td>后加名词做定语</td><td>指代场所</td><td>指代方向，或更有礼貌的指代场所</td><td></td></tr></tbody></table><h2 id="数词"><a href="#数词" class="headerlink" title="数词"></a>数词</h2><h2 id="量词"><a href="#量词" class="headerlink" title="量词"></a>量词</h2><h2 id="动词"><a href="#动词" class="headerlink" title="动词"></a>动词</h2><h3 id="动词分类"><a href="#动词分类" class="headerlink" title="动词分类"></a>动词分类</h3><table><thead><tr><th>名称</th><th>定义</th><th>举例</th></tr></thead><tbody><tr><td>一段动词（动2）</td><td>①词尾由两个假名组成，最后以「る」结尾<br>②「る」前假名为「い」（上一段动词）或者「え」（下一段动词）</td><td>起きる；見る<br>入れる；寝る</td></tr><tr><td>五段动词（动1）</td><td>非一段动词</td><td>飲む；帰る；働く</td></tr><tr><td>「サ」变动词（动3）</td><td>～～する</td><td>勉強する</td></tr><tr><td>「カ」变动词（动3）</td><td>来る（くる）</td><td></td></tr></tbody></table><h3 id="动词形态分类"><a href="#动词形态分类" class="headerlink" title="动词形态分类"></a>动词形态分类</h3><table><thead><tr><th>名称</th><th>定义</th><th>举例</th></tr></thead><tbody><tr><td>未然型</td><td></td><td></td></tr><tr><td>连用型</td><td></td><td></td></tr><tr><td>终止型</td><td></td><td></td></tr><tr><td>命令型</td><td></td><td></td></tr><tr><td>假定型</td><td></td><td></td></tr><tr><td>意志型</td><td></td><td></td></tr><tr><td>连体型</td><td></td><td></td></tr></tbody></table><h3 id="动词「ます」形（敬体形）"><a href="#动词「ます」形（敬体形）" class="headerlink" title="动词「ます」形（敬体形）"></a>动词「ます」形（敬体形）</h3><p>基本构成：动词第1连用型+「ます」</p><table><thead><tr><th>动词类型</th><th>变形规则</th><th>举例</th></tr></thead><tbody><tr><td>一段动词</td><td>去词尾「る」+「ます」</td><td>入れる➝入れます</td></tr><tr><td>五段动词</td><td>词尾「う」段变「い」段+「ます」</td><td>帰る➝帰ります</td></tr><tr><td>「サ」变动词</td><td>「する」➝「します」</td><td>勉強する➝勉強します</td></tr><tr><td>「カ」变动词</td><td>来る➝来ます</td><td></td></tr></tbody></table><h3 id="动词「て」形（连接式）"><a href="#动词「て」形（连接式）" class="headerlink" title="动词「て」形（连接式）"></a>动词「て」形（连接式）</h3><p>基本构成：动词第2连用型+「て」</p><table><thead><tr><th>动词类型</th><th>变形规则</th><th>举例</th></tr></thead><tbody><tr><td>一段动词</td><td>同「ます」形</td><td>入れる➝入れて</td></tr><tr><td>「サ」</td><td>同「ます」形</td><td>勉強する➝勉強して</td></tr><tr><td>「カ」</td><td>同「ます」形</td><td>来る➝来て</td></tr><tr><td>五段动词</td><td>词尾「く」、「ぐ」结尾，<br>词尾「つ」、「る」、「う」结尾，<br>词尾「む」、「ぬ」、「ぶ」结尾，<br>词尾「す」结尾，同「ます」形<br>特殊「いく」</td><td>書く➝書いて；急ぐ➝急いで<br>待つ➝待って；帰る➝帰って；買う➝買って<br>読む➝読んで；死ぬ➝死んで；飛ぶ➝飛んで<br>話す➝話して<br>行く➝行って</td></tr></tbody></table><h2 id="形容词"><a href="#形容词" class="headerlink" title="形容词"></a>形容词</h2><h2 id="形容动词"><a href="#形容动词" class="headerlink" title="形容动词"></a>形容动词</h2><h1 id="助词"><a href="#助词" class="headerlink" title="助词"></a>助词</h1><h2 id="格助词"><a href="#格助词" class="headerlink" title="格助词"></a>格助词</h2><ol><li><p>「の」：通常前接体言，名词修饰名词必须加「の」</p></li><li><p>「に」：</p><p>a) 表示事物静态存在的地点</p><p>【例句】</p><p>机の上に　本が　あります</p><p>b) 表示具体的时间、时间段</p><p>【例句】</p><p>私は　毎朝6時に　起きます</p><p>学校は　8時に　始まります</p><p>c) 表示动作作用的对象</p><p>【例句】</p><p>昨日　私は　駅で　森さんに　会いました</p><p>昨日　私は　航空便で　母に　誕生日のプレゼントを　送りました</p><p>昨日　私は　日本語で　友達に　手紙を　書きました</p><p>d) 表示动作行为的目的，动词第1连用型+「に」</p><p>【例句】</p><p>こご　郵便局へ　荷物を　出しに　行きます</p><p>小野さんは　プールへ　泳ぎに　来ます</p><p>森さんは　私の家へ　遊びに　来ます</p><p>e) 表示目的地，后通常接表示移动的动词，可以替换「へ」</p><p>【例句】</p><p>李さんは　家に　帰りました</p><p>李さんは　病院に　行きます</p><p>f) 表示动作的着落点</p><p>【例句】</p><p>ここに　座ってもいいですか</p><p>この部屋に　入れってはいけません</p><p>李さんは　電車に　乗りました</p><p>g) </p><p>【例句】</p></li><li><p>「から」</p><p>表时间、空间上的起点</p><p>【例句】</p><p>銀行は　午前9時　からです</p><p>来週の月曜日から　働きます</p></li><li><p>「まで」</p><p>表时间、空间上的终点</p><p>【例句】</p><p>銀行は　午後4時までです</p><p>昨日　夜10時まで　勉強しました</p></li><li><p>「へ」</p><p>读作「え」，表移动方向</p><p>【例句】</p><p>昨日　私は　図書室へ　行きました</p><p>李さんは　明日　家へ　来ます</p><p>森さんは　家へ　帰りました</p></li><li><p>「で」</p><p>a) 表交通工具</p><p>【例句】</p><p>私は　毎朝　地下鉄で　会社へ　行きます</p><p>明日　飛行機で　ペキンへ　行きますか</p><p>b) 提示【动态动作】进行的地点</p><p>【例句】</p><p>昨日　私は　図書館で　日本語を　勉強しました</p><p>昨日　李さんは　デパートで　靴を　買いました</p><p>c) 表示方式手段</p><p>私は　日本語で　手紙を　書きました</p><p>私は　玉子と小麦粉で　ケーキを　作りました</p><p>李さんは　ラジオで　日本語を　勉強しました</p></li><li></li></ol><h2 id="提示助词"><a href="#提示助词" class="headerlink" title="提示助词"></a>提示助词</h2><ol><li><p>「も」：表示“也”</p></li><li><p>「は」：</p><p>a) 表比对</p><p>b) 表强调</p><p>【例句】</p><p>この部屋に「は」　電話は　ありません</p><p>c) 表引出否定</p><p>【例句】</p><p>この部屋には　電話「は」　ありません</p></li></ol><h2 id="并列助词"><a href="#并列助词" class="headerlink" title="并列助词"></a>并列助词</h2><ol><li>「と」：表并列，连接体言和体言</li><li>「か」：表选择，或者</li></ol><h2 id="终助词"><a href="#终助词" class="headerlink" title="终助词"></a>终助词</h2><ol><li>「ね」：表强调、确认</li></ol><p>​        </p><h1 id="句型"><a href="#句型" class="headerlink" title="句型"></a>句型</h1><h2 id="名词谓语句（判断句）"><a href="#名词谓语句（判断句）" class="headerlink" title="名词谓语句（判断句）"></a>名词谓语句（判断句）</h2><ol><li><p>～～は～～です</p><p>【翻译】A是B；A在B（B为表示场所的体言）</p><p>【知识点】</p><p>「は」：提示助词，提示一切</p><p>「です」：助动词，前加名词构成谓语</p><p>【例句】</p><p>森さんは　日本人です</p><p>李さんは　中国人です</p><p>食堂は　（デパートの７階）です</p><p>李さんは　図書館です</p></li><li><p>～～は～～では　ありません</p><p>【翻译】A不是B</p><p>【知识点】</p><p>「ではありません」：助动词的一般否定变形</p><p>【例句】</p><p>その本は　日本語の本では　ありません</p></li><li><p>～～は～～ですが</p><p>【翻译】A是B吗？</p><p>【知识点】</p><p>「が」：终助词，表疑问</p><p>【例句】</p><p>どの本は　日本語の本ですが</p></li></ol><h2 id="疑问句"><a href="#疑问句" class="headerlink" title="疑问句"></a>疑问句</h2><ol><li><p>～～は　Aですか、Bですか</p><p>【翻译】这是A还是B？</p><p>【例句】</p><p>ここは　銀行ですか、郵便局ですか</p></li><li><p>疑问词+「も」+后续动词否定 = 全面否定</p><p>【例句】</p><p>部屋に　誰も　いません</p><p>冷蔵庫の中に　何も　ありません　</p></li></ol><h2 id="存在句"><a href="#存在句" class="headerlink" title="存在句"></a>存在句</h2><ol><li><p>～～に～～が　あります（无自主意志）</p><p>～～に～～が　います（有自主意志）</p><p>～～は～～です</p><p>【翻译】A（地点）有B（事物）</p><p>【知识点】</p><p>「に」：格助词，前接体言，提示事物存在的地点（静态动作，动态动作用「で」）</p><p>「が」：格助词，提示小句主语</p><p>【例句】</p><p>庭に　猫が　います</p><p>ここに　本が　あります</p></li><li><p>～～は～～に　あります</p><p>～～は～～に　います</p><p>【翻译】B（事物）在A（地点）</p><p>【知识点】</p><p>「は」：提示助词，提示主语</p><p>「に」：格助词，表示事物存在地点</p><p>【例句】</p><p>猫は　庭に　います</p><p>本は　ここに　あります</p></li></ol>]]></content>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;基础知识&quot;&gt;&lt;a href=&quot;#基础知识&quot; class=&quot;headerlink&quot; title=&quot;基础知识&quot;&gt;&lt;/a&gt;基础知识&lt;/h1&gt;&lt;h2 id=&quot;日语词类分类&quot;&gt;&lt;a href=&quot;#日语词类分类&quot; class=&quot;headerlink&quot; title=&quot;日语词类分类&quot;&gt;&lt;/a&gt;日语词类分类&lt;/h2&gt;</summary>
     
     
     
