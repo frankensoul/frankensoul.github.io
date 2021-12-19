@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-20T10:27:53.705Z</updated>
+  <updated>2021-12-19T06:02:12.210Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每周一图-Week07</title>
+    <link href="http://example.com/2021/12/19/%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE-week07/"/>
+    <id>http://example.com/2021/12/19/%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE-week07/</id>
+    <published>2021-12-19T05:54:01.000Z</published>
+    <updated>2021-12-19T06:02:12.210Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/微信图片_20211219135932.jpg" style="zoom:25%;" width = "1125" height = "1500" alt="git" />]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="每周一图" scheme="http://example.com/tags/%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9B%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>每周一图-Week06</title>
@@ -377,7 +399,7 @@
     <published>2021-04-02T07:42:36.000Z</published>
     <updated>2021-04-02T08:25:21.490Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>喉返神经电台是我2018年12月到2019年10月在当时的公众号尝试玩的音频混缩项目。</p><span id="more"></span><p>电台的主要灵感来源于最喜欢电台《西海之声》的子项目《尾灯计划》以及主持人中Bini的个人项目《魔山》，主要内容是尝试把一些文字朗诵用人工语音识别出来然后剪辑混入一些歌里，算是半音乐推荐半文学创作（大言不惭）。</p><p>电台的名字是大三上半学期学习系统解剖学和在地下自习室某个背诵生物化学期末考试的窒息瞬间想到的。喉返神经走行于甲状腺两旁，支配除环甲肌之外的其他所有喉肌，在甲状腺手术当中，喉返神经损伤所导致的声音嘶哑作为并发症之一非常常见，双侧喉返神经损伤亦可引起呼吸困难引起窒息。这大概可以概括我那一段时间的状态，想要呐喊却发不出声音。地下自习室是一个能容纳500人的24小时通宵自习室，期末季的时候在一天的任何一个时段几乎都能达到50%的满座率，高峰时间段自然是一座难求。那一年的大多数时间我都在地下自习室度过，闷热的空气和高浓度二氧化碳在生理层面把我感受到的痛苦具现化，电台是我当时选择的发声出口。不过后来也在疫情和公众号注销的消磨里逐渐淡忘了。</p><p>前两天清理电脑的时候偶然发现了遗留在本地的第3，4，5期，存档在这里。</p><p>enjoy</p><center>        <div id="aplayer-coAuKRgb" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-coAuKRgb"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第03期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B003_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>        <div id="aplayer-utOLFCck" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-utOLFCck"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第04期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B004_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>        <div id="aplayer-GNTZQpHR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-GNTZQpHR"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第05期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B005%20_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><center>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>喉返神经电台是我2018年12月到2019年10月在当时的公众号尝试玩的音频混缩项目。</p><span id="more"></span><p>电台的主要灵感来源于最喜欢电台《西海之声》的子项目《尾灯计划》以及主持人中Bini的个人项目《魔山》，主要内容是尝试把一些文字朗诵用人工语音识别出来然后剪辑混入一些歌里，算是半音乐推荐半文学创作（大言不惭）。</p><p>电台的名字是大三上半学期学习系统解剖学和在地下自习室某个背诵生物化学期末考试的窒息瞬间想到的。喉返神经走行于甲状腺两旁，支配除环甲肌之外的其他所有喉肌，在甲状腺手术当中，喉返神经损伤所导致的声音嘶哑作为并发症之一非常常见，双侧喉返神经损伤亦可引起呼吸困难引起窒息。这大概可以概括我那一段时间的状态，想要呐喊却发不出声音。地下自习室是一个能容纳500人的24小时通宵自习室，期末季的时候在一天的任何一个时段几乎都能达到50%的满座率，高峰时间段自然是一座难求。那一年的大多数时间我都在地下自习室度过，闷热的空气和高浓度二氧化碳在生理层面把我感受到的痛苦具现化，电台是我当时选择的发声出口。不过后来也在疫情和公众号注销的消磨里逐渐淡忘了。</p><p>前两天清理电脑的时候偶然发现了遗留在本地的第3，4，5期，存档在这里。</p><p>enjoy</p><center>        <div id="aplayer-EfMyEBDk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-EfMyEBDk"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第03期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B003_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>        <div id="aplayer-ppwDKWNn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-ppwDKWNn"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第04期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B004_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>        <div id="aplayer-LczLJwaJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-LczLJwaJ"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "喉返神经电台第05期",              author: "老裴",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E7%94%B5%E5%8F%B005%20_%E7%BC%A9%E6%B7%B7.mp3",              pic: "/2021/04/02/喉返神经电台-往期搬运/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><center>]]></content>
     
     
     <summary type="html">&lt;p&gt;喉返神经电台是我2018年12月到2019年10月在当时的公众号尝试玩的音频混缩项目。&lt;/p&gt;</summary>
@@ -398,7 +420,7 @@
     <published>2021-04-01T08:57:28.000Z</published>
     <updated>2021-04-02T07:21:53.317Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>流行病学课程过于让人不能平复心情，为了拯救注意力解决了之前遗留的博客音乐播放器的问题，终于可以开音乐推荐的坑了哈哈哈哈哈。</p><span id="more"></span><p>序</p><p>发端似乎在2013年<br>一次出河北去西北<br>火车钻入太行山腹<br>景色突然叠加变幻<br>山脚的村庄还运行着古老仁慈的秩序<br>而对面山腰<br>炸药歌舞团的表演拉开大幕<br>神话握手现代化<br>启动了荒原上最悲怆的谜语</p><p>那一次眩晕令人至今难忘<br>之后就开始旷日持久的漫游解谜<br>偶尔是美妙的精神游艺<br>更多时候则不得不面对<br>内部的洪水和外部的歧路<br>像一个胸闷的哑巴<br>打不赢就大醉一场<br>丢人并且伤神</p><p>漫游搞复杂了，抬头已是2020<br>这几年间，气象风物变化急促<br>几人仍眼睛明亮，几人已失了魂？<br>感谢大家还有耐心听完这样一张唱片<br>轨迹和谜底都录在这44分22秒之中<br>各位可自助提取</p><p>西郊有密林 助君出重围</p><p>姬赓<br>2020.12.16</p><center>        <div id="aplayer-JelbWfmK" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-JelbWfmK"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "冀西南林路行",              author: "万能青年旅店",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E5%86%80%E8%A5%BF%E5%8D%97%E6%9E%97%E8%B7%AF%E8%A1%8C%20(%E4%B8%93%E8%BE%91%E5%85%A8%E9%95%BF).mp3",              pic: "/2021/04/01/专辑推荐《冀西南林路行》/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><center>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>流行病学课程过于让人不能平复心情，为了拯救注意力解决了之前遗留的博客音乐播放器的问题，终于可以开音乐推荐的坑了哈哈哈哈哈。</p><span id="more"></span><p>序</p><p>发端似乎在2013年<br>一次出河北去西北<br>火车钻入太行山腹<br>景色突然叠加变幻<br>山脚的村庄还运行着古老仁慈的秩序<br>而对面山腰<br>炸药歌舞团的表演拉开大幕<br>神话握手现代化<br>启动了荒原上最悲怆的谜语</p><p>那一次眩晕令人至今难忘<br>之后就开始旷日持久的漫游解谜<br>偶尔是美妙的精神游艺<br>更多时候则不得不面对<br>内部的洪水和外部的歧路<br>像一个胸闷的哑巴<br>打不赢就大醉一场<br>丢人并且伤神</p><p>漫游搞复杂了，抬头已是2020<br>这几年间，气象风物变化急促<br>几人仍眼睛明亮，几人已失了魂？<br>感谢大家还有耐心听完这样一张唱片<br>轨迹和谜底都录在这44分22秒之中<br>各位可自助提取</p><p>西郊有密林 助君出重围</p><p>姬赓<br>2020.12.16</p><center>        <div id="aplayer-tZULySLr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:50%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-tZULySLr"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "冀西南林路行",              author: "万能青年旅店",              url: "https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/%E5%86%80%E8%A5%BF%E5%8D%97%E6%9E%97%E8%B7%AF%E8%A1%8C%20(%E4%B8%93%E8%BE%91%E5%85%A8%E9%95%BF).mp3",              pic: "/2021/04/01/专辑推荐《冀西南林路行》/cover.png",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><center>]]></content>
     
     
     <summary type="html">&lt;p&gt;流行病学课程过于让人不能平复心情，为了拯救注意力解决了之前遗留的博客音乐播放器的问题，终于可以开音乐推荐的坑了哈哈哈哈哈。&lt;/p&gt;</summary>
@@ -409,25 +431,6 @@
     <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
     
     <category term="专辑推荐" scheme="http://example.com/tags/%E4%B8%93%E8%BE%91%E6%8E%A8%E8%8D%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2021/3/23-3/28阅读归档</title>
-    <link href="http://example.com/2021/03/29/2021-3-23-3-28%E9%98%85%E8%AF%BB%E5%BD%92%E6%A1%A3/"/>
-    <id>http://example.com/2021/03/29/2021-3-23-3-28%E9%98%85%E8%AF%BB%E5%BD%92%E6%A1%A3/</id>
-    <published>2021-03-29T00:25:25.000Z</published>
-    <updated>2021-03-29T01:16:27.017Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>本周阅读归档，在主页置顶新增了中文newsletter导航站，希望能提供一些曝光量。这周开始会尝试归类整理看到的文章们。</p><span id="more"></span><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p><a href="https://www.instapaper.com/read/1397091359">《Deadline产后护理》</a></p><p>我最喜欢的一个博客主写的文章，每次读他的文章都能给我带来强烈的生活可控的安心感，文中提到的一些小技巧（比如定时喝水和心理暗示）也非常实用。</p><p><a href="https://www.instapaper.com/read/1398746752">《最近值得一看的8部作品》</a></p><p>sspai周更栏目，推荐质量靠谱而稳定。</p><h2 id="深长文"><a href="#深长文" class="headerlink" title="深长文"></a>深长文</h2><p><a href="https://www.instapaper.com/read/1397318390">《早餐中国结束了，不要美化烟火气》</a></p><p>关于早餐中国的长评论文章，摘录几句很打动我的话。</p><blockquote><p>当一个人发现所有的规划都是一场虚妄，那一刻特别好。这个好是他们终于接受了自己，认命了。所有早餐店老板身上几乎都有这样的「认命感」。</p></blockquote><blockquote><p>早餐店利润很薄，十几平方每天赚个几百块钱，如果不是没得选，他们一定都不会选择这行。所以，做早餐的人，第一，他没的选；第二，他很认命。一个人找到了自己的位置，认清了自己的道路，然后沉潜下来，变成一个普通人，这太重要了。这样他才知道自己该做什么，要往哪儿去。</p></blockquote><blockquote><p>当周遭世界飞速发展，科技越发达，人们越渴求心灵的抚慰。清晨醒来，看见妈妈在厨房煮饭，你会想，哦，那今天跟昨天没什么差别。现在的社会拼命地引诱每个人说将来会更美好，但早餐会告诉你，将来是一样的，昨天、今天、明天都一样。早餐给所有人带来稳定，它重新定义了守旧这个词。</p></blockquote><p><a href="https://www.instapaper.com/read/1398828209">《我在警局重案组实习的日子》</a></p><p>HBO美剧《火线》原著小说《凶年》的作者给小说写的序，非常有意思。</p><blockquote><p>我把自己的困境告诉他，他饶有趣味地看着我问道：“你不是个作家么？你应该很擅长写才对呀。”<br>当然，我的确算得上是个作家，可我没写过那么大部头的书。<br>“我知道你应该写什么了。”<br>快告诉我。<br>“你不应该写那些案件。那些谋杀案。我的意思是，谋杀案应该只是这个故事的背景。好吧，也许我说的都是废话。”<br>可我依然在仔细地聆听着。<br>“你应该写我们。我们这些家伙。你应该写我们是怎样的，我们怎么骂彼此，我们生气时候是怎样的，我们开起玩笑来又是怎样的，还有办公室里发生的那些操蛋事。”<br>我点点头，仿佛自己从一开始就明白这个道理一样。</p></blockquote><blockquote><p>有一次，我和贾尔维一起喝酒。聊着聊着我就意识到了我们所处之境遇的象征意义：在后现代的美国，无论你所服务或为你提供服务的是哪个单位——警局、报业、政党、教堂、安然（Enron）、世通（WorldCom）——最终，你都会遭到背叛。</p></blockquote><h2 id="可能会尝试的"><a href="#可能会尝试的" class="headerlink" title="可能会尝试的"></a>可能会尝试的</h2><p><a href="https://www.instapaper.com/read/1397826182">《树莓派扩展电纸屏》</a></p><p>码了但大概率不会去尝试的有趣DIY。</p><p><a href="https://www.instapaper.com/read/1397932696">《阿里云盘1》</a> </p><p><a href="https://www.instapaper.com/read/1398709355">《阿里云盘2》</a></p><p>关于最近新上线的阿里云盘的安利，体验了不限速免费700g存储服务之后感觉阿里云盘目前阶段是我这样个人中小文件同步需求用户的福音，吊打某度。当然在资源传播需求方面是否能打破护城河以及在内容审查上做得更好还是拭目以待。</p><h2 id="互联网景观"><a href="#互联网景观" class="headerlink" title="互联网景观"></a>互联网景观</h2><p><a href="https://www.instapaper.com/read/1397829816">《直播睡觉月入百万的段子快要成真了》</a></p><p>国外的直播文化也畸形疯求了，或者说，哪里都一样烂。</p><p><a href="https://www.instapaper.com/read/1398705882">《离开字节跳动的人》</a></p><p>满屏满页都写着两个字：内卷。</p><h2 id="赛博冲浪技巧"><a href="#赛博冲浪技巧" class="headerlink" title="赛博冲浪技巧"></a>赛博冲浪技巧</h2><p><a href="https://www.instapaper.com/read/1397933082">《博客平台Ghost更新4.0》</a></p><p>考虑之后会尝试转移博客到WordPress或者Ghost上，这篇文章是一个不错的了解入门。</p><p><a href="https://www.instapaper.com/read/1398146733">《RSS二十年》</a></p><p>对于RSS的理解与未来发展的展望。</p><p><a href="https://www.instapaper.com/read/1398144848">《最近常看的中文Newsletter》</a></p><p>sspai关于中文Newsletter的一个汇总安利，其中hedwig.pub提供了一个很好的个人newsletter发放开启渠道，值得mark。</p><p><a href="https://www.instapaper.com/read/1398904280">《我做了一个中文Newsletter导航》</a></p><p>最近中文Newsletter好像突然开启一个趋势，期待能蓬勃发展。</p><blockquote><p>主流的互联网产品都是在鼓励大家发表观点（点赞和转发也是发表观点的方式），并且，发表出来就好了，并不在乎观点的论证和讨论。社交媒体不是一个能够容纳讨论和商议（deliberation）的地方，这不仅因为它短小、快速，还因为它的社交传播机制更鼓励表态而不是讨论。用学者Kevin Munger的说法，推特就是一个关于vibe（气氛）的平台，重要的是营造一种氛围，无关讨论，无关说服。按照同样的逻辑，微博和其他一些社交媒体也是如此。<br>所以我们或许可以简单粗暴地说，如果你想感受氛围，那么就去刷社交媒体；如果你想获取信息，那就订阅newsletter；如果你想和人讨论，那么……好像除了面对面、电话/视频或者一来一回地长篇通信之外，还没有特别适合的工具。</p></blockquote><h2 id="时事扩展阅读"><a href="#时事扩展阅读" class="headerlink" title="时事扩展阅读"></a>时事扩展阅读</h2><p><a href="https://www.instapaper.com/read/1398448334">《新疆棉花1》</a></p><p><a href="https://www.instapaper.com/read/1398446934">《新疆棉花2》</a></p><p><a href="https://www.instapaper.com/read/1398446896">《新疆棉花3》</a></p><p>不发表个人评论意见，仅仅筛选优质论述作为补充。</p>]]></content>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;序言&quot;&gt;&lt;a href=&quot;#序言&quot; class=&quot;headerlink&quot; title=&quot;序言&quot;&gt;&lt;/a&gt;序言&lt;/h2&gt;&lt;p&gt;本周阅读归档，在主页置顶新增了中文newsletter导航站，希望能提供一些曝光量。这周开始会尝试归类整理看到的文章们。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="weekly record" scheme="http://example.com/tags/weekly-record/"/>
     
   </entry>
   
