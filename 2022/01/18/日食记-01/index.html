@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<link rel="stylesheet" href="APlayer.min.css">
+<script src="APlayer.min.js"></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/16_16.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/32_32.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/16_16.ico">
+  <link rel="mask-icon" href="/images/16_16.ico" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-bounce.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="序言最近有集中的时间进行一些厨房尝试，也想到很久没更新博客了，在这里进行一些菜谱记录。后续可能会持续更新。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="日食记-01">
+<meta property="og:url" content="http://example.com/2022/01/18/%E6%97%A5%E9%A3%9F%E8%AE%B0-01/index.html">
+<meta property="og:site_name" content="无量三生">
+<meta property="og:description" content="序言最近有集中的时间进行一些厨房尝试，也想到很久没更新博客了，在这里进行一些菜谱记录。后续可能会持续更新。">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/afbbb7080d72496b1598e0cffcc4c7f.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/73088d937e8308123c72161a658d246.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/7ebe597be2720b24a76c59083fa174f.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/32830b7c5b37298911823dea2562284.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/15c37b56bae1e728d814fa47c7120c7.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/ddeccfac70e138942e7cf793c82de1c.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/0504792be6b780d524ed918540a433c.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/1e78ac008a1b392947187085e91fd2f.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/186cad226f199dd9461d89009f02920.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/e9b142812522885f792f73138ca0368.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/aace78b47b332cf26d9ccd8c63862bd.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/a8db2caa56bade8c0942d3ce7939c83.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/a2029eed8d9038c32f167ae8dcbb53c.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/61221889c187460797c20c6684de3df.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/7e86611e21a90b5f6d0b07745b47123.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/8f9f8d6c6f89050427d3d4cf77ee290.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/08b482657f5ae5786c41b3c69d0a1e1.jpg">
+<meta property="og:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/6f04647cf2c98758f1b9330f75f1453.jpg">
+<meta property="article:published_time" content="2022-01-18T13:28:15.000Z">
+<meta property="article:modified_time" content="2022-01-19T03:03:14.083Z">
+<meta property="article:author" content="Yanz Pei">
+<meta property="article:tag" content="weekly record">
+<meta property="article:tag" content="菜谱">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/afbbb7080d72496b1598e0cffcc4c7f.jpg">
+
+<link rel="canonical" href="http://example.com/2022/01/18/%E6%97%A5%E9%A3%9F%E8%AE%B0-01/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>日食记-01 | 无量三生</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+<link rel="alternate" href="/atom.xml" title="无量三生" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">无量三生</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+        <li class="menu-item menu-item-messagepad">
+
+    <a href="/messagepad" rel="section"><i class="fa fa-heartbeat fa-fw"></i>留言</a>
+
+  </li>
+        <li class="menu-item menu-item-rss">
+
+    <a href="/atom.xml" rel="section"><i class="fa fa-rss fa-fw"></i>Rss</a>
+
+  </li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/2022/01/18/%E6%97%A5%E9%A3%9F%E8%AE%B0-01/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Yanz Pei">
+      <meta itemprop="description" content="文字归档存储器">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="无量三生">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          日食记-01
+        </h1>
+
+        <div class="post-meta">
+          
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2022-01-18 21:28:15" itemprop="dateCreated datePublished" datetime="2022-01-18T21:28:15+08:00">2022-01-18</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2022-01-19 11:03:14" itemprop="dateModified" datetime="2022-01-19T11:03:14+08:00">2022-01-19</time>
+              </span>
+
+          
+            <span id="/2022/01/18/%E6%97%A5%E9%A3%9F%E8%AE%B0-01/" class="post-meta-item leancloud_visitors" data-flag-title="日食记-01" title="阅读次数">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/2022/01/18/%E6%97%A5%E9%A3%9F%E8%AE%B0-01/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2022/01/18/%E6%97%A5%E9%A3%9F%E8%AE%B0-01/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>最近有集中的时间进行一些厨房尝试，也想到很久没更新博客了，在这里进行一些菜谱记录。后续可能会持续更新。</p>
+<span id="more"></span>
+
+<h3 id="01-西红柿炒鸡蛋拌面-干煸豇豆"><a href="#01-西红柿炒鸡蛋拌面-干煸豇豆" class="headerlink" title="01 西红柿炒鸡蛋拌面+干煸豇豆"></a>01 西红柿炒鸡蛋拌面+干煸豇豆</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/afbbb7080d72496b1598e0cffcc4c7f.jpg" alt="afbbb7080d72496b1598e0cffcc4c7f" style="zoom:10%;" />
+
+<p>平平无奇的国菜是面条好伴侣。豇豆个人喜欢用急火爆炒，酱油上色豇豆外皮炸皱后放一勺醋爆香，可以提味。</p>
+<h3 id="02-土豆炖牛腩-卤味外卖"><a href="#02-土豆炖牛腩-卤味外卖" class="headerlink" title="02 土豆炖牛腩+卤味外卖"></a>02 土豆炖牛腩+卤味外卖</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/73088d937e8308123c72161a658d246.jpg" alt="73088d937e8308123c72161a658d246" style="zoom:10%;" />
+
+<p>第一次料理牛肉，经验不足，肉炖煮的时间短了，查阅多方资料后得知牛腩肉料理时间应至少＞40min，有高压锅除外。</p>
+<h3 id="03-小张做的可乐鸡翅-豆腐丝拌青椒芹菜-豆干炒芹菜"><a href="#03-小张做的可乐鸡翅-豆腐丝拌青椒芹菜-豆干炒芹菜" class="headerlink" title="03 小张做的可乐鸡翅+豆腐丝拌青椒芹菜+豆干炒芹菜"></a>03 小张做的可乐鸡翅+豆腐丝拌青椒芹菜+豆干炒芹菜</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/7ebe597be2720b24a76c59083fa174f.jpg" alt="7ebe597be2720b24a76c59083fa174f" style="zoom:10%;" />
+
+<p>好吃，看了一眼可乐鸡翅的大致做法。记录如下：</p>
+<blockquote>
+<p>鸡翅化开腌制，下锅两面煎至3分熟</p>
+<p>适量红糖+550ml百事可乐+八角香叶桂皮+葱段煮开</p>
+<p>鸡翅下锅，小火收汁</p>
+</blockquote>
+<h3 id="04-糖醋排骨（左）-孜然羊肉（右）-泡菜-排骨汤米线"><a href="#04-糖醋排骨（左）-孜然羊肉（右）-泡菜-排骨汤米线" class="headerlink" title="04 糖醋排骨（左）+孜然羊肉（右）+泡菜+排骨汤米线"></a>04 糖醋排骨（左）+孜然羊肉（右）+泡菜+排骨汤米线</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/32830b7c5b37298911823dea2562284.jpg" alt="32830b7c5b37298911823dea2562284" style="zoom:10%;" />
+
+<p>糖醋排骨调味使用家乐福买到的方便n合1调味包，炖煮40min后油锅煎炸至两面金黄，加入调味包翻炒收汁即可，味道很好。排骨剩下的汤用来煮小张买到的正宗米线。</p>
+<p>孜然羊肉和酸菜是妈妈做好寄来的家里味道，等能够回去的时候要学习一下配方。</p>
+<h3 id="05-炸酱拌面-凉拌菜"><a href="#05-炸酱拌面-凉拌菜" class="headerlink" title="05 炸酱拌面+凉拌菜"></a>05 炸酱拌面+凉拌菜</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/15c37b56bae1e728d814fa47c7120c7.jpg" alt="15c37b56bae1e728d814fa47c7120c7" style="zoom:10%;" />
+
+<p>自己按照记忆复刻的西北version炸酱面，北京人小张吃了后说觉得还不错。牛肉是妈妈卤制好寄过来的。</p>
+<blockquote>
+<p>material：</p>
+<p>​    葱伴侣黄豆酱100g，牛肉馅400g，冻豆腐200g切丁，2小根芹菜切粒</p>
+<p>protocol：</p>
+<p>​    等油热后葱姜蒜下锅大火爆香，炒肉馅，变色后加入黄豆酱，颜色变深后加两碗水</p>
+<p>​    小火适当收汁，出锅前五分钟加入冻豆腐和芹菜粒，可根据喜好调整酱料的多少及粘稠度</p>
+<p>​    （豆腐主要是为了吸收酱汁拌面增香，芹菜为了解咸解腻，可删减）</p>
+</blockquote>
+<h3 id="06-花蛤炒米线（福建正宗）"><a href="#06-花蛤炒米线（福建正宗）" class="headerlink" title="06 花蛤炒米线（福建正宗）"></a>06 花蛤炒米线（福建正宗）</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/ddeccfac70e138942e7cf793c82de1c.jpg" alt="ddeccfac70e138942e7cf793c82de1c" style="zoom:10%;" />
+
+<p>小张按照福建记忆做的，好吃。打开我的鱼露料理生涯。</p>
+<blockquote>
+<p>tips：</p>
+<p>​    花蛤吐沙处理时用温水比用铁器好用</p>
+</blockquote>
+<h3 id="07-排骨冻豆腐汤"><a href="#07-排骨冻豆腐汤" class="headerlink" title="07 排骨冻豆腐汤"></a>07 排骨冻豆腐汤</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/0504792be6b780d524ed918540a433c.jpg" alt="0504792be6b780d524ed918540a433c" style="zoom:10%;" />
+
+<p>按照家里烩菜的习惯仿制的，按西方的说法叫好听一些应当是some kind of Lanzhou Goulash，加入少许鱼露和大量MSG后味道大幅提升。</p>
+<h3 id="08-鸡胸肉咖喱饭（微辣）"><a href="#08-鸡胸肉咖喱饭（微辣）" class="headerlink" title="08 鸡胸肉咖喱饭（微辣）"></a>08 鸡胸肉咖喱饭（微辣）</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/1e78ac008a1b392947187085e91fd2f.jpg" alt="1e78ac008a1b392947187085e91fd2f" style="zoom:10%;" />
+
+<p>使用百梦多咖喱调料kit，百梦多，我的厨房好伴侣。</p>
+<h3 id="09-国菜-芹菜炒肉-homade微波芝士焗土豆泥"><a href="#09-国菜-芹菜炒肉-homade微波芝士焗土豆泥" class="headerlink" title="09 国菜+芹菜炒肉+homade微波芝士焗土豆泥"></a>09 国菜+芹菜炒肉+homade微波芝士焗土豆泥</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/186cad226f199dd9461d89009f02920.jpg" alt="1e78ac008a1b392947187085e91fd2f" style="zoom:10%;" />
+
+<p>国菜和芹菜炒肉没什么好说的，芝士焗土豆泥是查阅一些配方并改进后做出的，没有烤炉少了些许风味。</p>
+<blockquote>
+<p>material：</p>
+<p>​    马铃薯（土豆/洋芋）1个，牛奶适量，马苏里拉奶酪片2片</p>
+<p>protocol：</p>
+<p>​    马铃薯去皮切小块，加牛奶至1/2高度，微波炉大火加热至绵软（8min以上）</p>
+<p>​    铁勺打散，加入盐及胡椒，搅匀</p>
+<p>​    分层放切达，大火五分钟</p>
+<p>​    （可以根据条件使用稀奶油+黄油+奶酪碎，最好用烤箱，不然没风味）</p>
+</blockquote>
+<h3 id="10-蛋炒饭-汤圆"><a href="#10-蛋炒饭-汤圆" class="headerlink" title="10 蛋炒饭+汤圆"></a>10 蛋炒饭+汤圆</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/e9b142812522885f792f73138ca0368.jpg" alt="e9b142812522885f792f73138ca0368" style="zoom:10%;" />
+
+<p>常规操作，洋葱+胡萝卜的甜口组合受到小张认可</p>
+<h3 id="11-红酱意面"><a href="#11-红酱意面" class="headerlink" title="11 红酱意面"></a>11 红酱意面</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/aace78b47b332cf26d9ccd8c63862bd.jpg" alt="aace78b47b332cf26d9ccd8c63862bd" style="zoom:10%;" />
+
+<p>第一次自己做，按照全家的红酱意面口味去调的味，受到小张大力称赞，记录一下自研食谱。</p>
+<blockquote>
+<p>material：</p>
+<p>​    西红柿500g（2个），猪肉馅250g，洋葱250g（0.5个）切丁，蒜4瓣切沫，超市番茄酱，番茄火锅底料，黄油25g+25g</p>
+<p>protocol：</p>
+<p>​    25g黄油下锅小火化开，加入全部蒜沫和一半洋葱丁煎炸出香味，炒肉馅至变色，盛出</p>
+<p>​    西红柿烫煮去皮切小块，25g黄油下锅小火化开，转大火，下番茄和剩余洋葱，煎出汁水</p>
+<p>​    加入番茄酱（根据口味可调），100g番茄锅底料（海底捞的就可以，没有可以用更多番茄酱），两小碗水</p>
+<p>​    中火收汁，加入炒好的肉末洋葱，加入胡椒/盐调味</p>
+<p>​    水煮开加盐煮意面</p>
+<p> （胡椒显著提升风味，番茄酱和火锅料决定酱料的酸甜度，炒一顿酱可以吃两顿）</p>
+<p>​    tips：正宗意面用筷子吃风味更佳</p>
+</blockquote>
+<h3 id="12-红酱意面（剩余）"><a href="#12-红酱意面（剩余）" class="headerlink" title="12 红酱意面（剩余）"></a>12 红酱意面（剩余）</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/a8db2caa56bade8c0942d3ce7939c83.jpg" alt="a8db2caa56bade8c0942d3ce7939c83" style="zoom:10%;" />
+
+<p>一顿酱吃两顿</p>
+<h3 id="13-鸡腿肉咖喱饭"><a href="#13-鸡腿肉咖喱饭" class="headerlink" title="13 鸡腿肉咖喱饭"></a>13 鸡腿肉咖喱饭</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/a2029eed8d9038c32f167ae8dcbb53c.jpg" alt="a2029eed8d9038c32f167ae8dcbb53c" style="zoom:10%;" />
+
+<p>去骨鸡腿肉+红酒+酱油+胡椒腌制20min</p>
+<p>剩余使用百梦多咖喱kit</p>
+<h3 id="14-白酱意面（自制蒜香奶油培根鲜虾芦笋西兰花意面）"><a href="#14-白酱意面（自制蒜香奶油培根鲜虾芦笋西兰花意面）" class="headerlink" title="14 白酱意面（自制蒜香奶油培根鲜虾芦笋西兰花意面）"></a>14 白酱意面（自制蒜香奶油培根鲜虾芦笋西兰花意面）</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/61221889c187460797c20c6684de3df.jpg" alt="61221889c187460797c20c6684de3df" style="zoom:10%;" />
+
+<p>红酱意面之后自研的白酱意面，自己第一次吃白酱。在开始研究菜谱前一直以为白酱意面是甜口，受到了小张嘲笑。</p>
+<blockquote>
+<p>material：</p>
+<p>​    芦笋西兰花250g切细，稀奶油200ml，虾仁200g，超市培根1包，牛奶100ml，黄油25g，大蒜6瓣切沫，洋葱125g切丁（1/4个）</p>
+<p>protocol：</p>
+<p>​    沸水加盐煮意面，盛出之后放黄油拌开。</p>
+<p>​    芦笋西兰花沸水焯2min盛出待用</p>
+<p>​    黄油25g下锅小火化开，加入洋葱蒜沫大火炸香，煎虾仁至变色，胡椒/盐调味</p>
+<p>​    加入200ml稀奶油，转中火，边缘起泡时加入牛奶，西兰花</p>
+<p>​    小火收汁，大量胡椒提味</p>
+<p>​    加入意面搅拌后盛盘</p>
+<p>​    煎培根</p>
+<p>​    （注意盛盘时酱汁可能会较为不均匀）</p>
+</blockquote>
+<h3 id="15-平平无奇一人食鱼露蛋炒饭"><a href="#15-平平无奇一人食鱼露蛋炒饭" class="headerlink" title="15 平平无奇一人食鱼露蛋炒饭"></a>15 平平无奇一人食鱼露蛋炒饭</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/7e86611e21a90b5f6d0b07745b47123.jpg" alt="7e86611e21a90b5f6d0b07745b47123" style="zoom:10%;" />
+
+<p>即兴发挥</p>
+<h3 id="16-国菜-韭黄炒肉丝"><a href="#16-国菜-韭黄炒肉丝" class="headerlink" title="16 国菜+韭黄炒肉丝"></a>16 国菜+韭黄炒肉丝</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/8f9f8d6c6f89050427d3d4cf77ee290.jpg" alt="8f9f8d6c6f89050427d3d4cf77ee290" style="zoom:10%;" />
+
+<p>韭黄，冬天的维纳斯。搭配任何肉类都非常下饭。</p>
+<h3 id="17-红酱意面"><a href="#17-红酱意面" class="headerlink" title="17 红酱意面"></a>17 红酱意面</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/08b482657f5ae5786c41b3c69d0a1e1.jpg" alt="08b482657f5ae5786c41b3c69d0a1e1" style="zoom:10%;" />
+
+<p>又做了</p>
+<h3 id="18-红酱意面（剩余）"><a href="#18-红酱意面（剩余）" class="headerlink" title="18 红酱意面（剩余）"></a>18 红酱意面（剩余）</h3><img src="https://blog-pic-1305181680.cos.ap-shanghai.myqcloud.com/6f04647cf2c98758f1b9330f75f1453.jpg" alt="6f04647cf2c98758f1b9330f75f1453" style="zoom:10%;" />
+
+<p>又吃了两顿</p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          
+          <div class="post-tags">
+              <a href="/tags/weekly-record/" rel="tag"><i class="fa fa-tag"></i> weekly record</a>
+              <a href="/tags/%E8%8F%9C%E8%B0%B1/" rel="tag"><i class="fa fa-tag"></i> 菜谱</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2022/01/06/%E4%B8%80%E4%B8%AA%E7%9F%AD%E7%AF%87/" rel="prev" title="一个短篇">
+      <i class="fa fa-chevron-left"></i> 一个短篇
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BA%8F%E8%A8%80"><span class="nav-number">1.</span> <span class="nav-text">序言</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#01-%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E9%B8%A1%E8%9B%8B%E6%8B%8C%E9%9D%A2-%E5%B9%B2%E7%85%B8%E8%B1%87%E8%B1%86"><span class="nav-number">1.1.</span> <span class="nav-text">01 西红柿炒鸡蛋拌面+干煸豇豆</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#02-%E5%9C%9F%E8%B1%86%E7%82%96%E7%89%9B%E8%85%A9-%E5%8D%A4%E5%91%B3%E5%A4%96%E5%8D%96"><span class="nav-number">1.2.</span> <span class="nav-text">02 土豆炖牛腩+卤味外卖</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#03-%E5%B0%8F%E5%BC%A0%E5%81%9A%E7%9A%84%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85-%E8%B1%86%E8%85%90%E4%B8%9D%E6%8B%8C%E9%9D%92%E6%A4%92%E8%8A%B9%E8%8F%9C-%E8%B1%86%E5%B9%B2%E7%82%92%E8%8A%B9%E8%8F%9C"><span class="nav-number">1.3.</span> <span class="nav-text">03 小张做的可乐鸡翅+豆腐丝拌青椒芹菜+豆干炒芹菜</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#04-%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8%EF%BC%88%E5%B7%A6%EF%BC%89-%E5%AD%9C%E7%84%B6%E7%BE%8A%E8%82%89%EF%BC%88%E5%8F%B3%EF%BC%89-%E6%B3%A1%E8%8F%9C-%E6%8E%92%E9%AA%A8%E6%B1%A4%E7%B1%B3%E7%BA%BF"><span class="nav-number">1.4.</span> <span class="nav-text">04 糖醋排骨（左）+孜然羊肉（右）+泡菜+排骨汤米线</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#05-%E7%82%B8%E9%85%B1%E6%8B%8C%E9%9D%A2-%E5%87%89%E6%8B%8C%E8%8F%9C"><span class="nav-number">1.5.</span> <span class="nav-text">05 炸酱拌面+凉拌菜</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#06-%E8%8A%B1%E8%9B%A4%E7%82%92%E7%B1%B3%E7%BA%BF%EF%BC%88%E7%A6%8F%E5%BB%BA%E6%AD%A3%E5%AE%97%EF%BC%89"><span class="nav-number">1.6.</span> <span class="nav-text">06 花蛤炒米线（福建正宗）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#07-%E6%8E%92%E9%AA%A8%E5%86%BB%E8%B1%86%E8%85%90%E6%B1%A4"><span class="nav-number">1.7.</span> <span class="nav-text">07 排骨冻豆腐汤</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#08-%E9%B8%A1%E8%83%B8%E8%82%89%E5%92%96%E5%96%B1%E9%A5%AD%EF%BC%88%E5%BE%AE%E8%BE%A3%EF%BC%89"><span class="nav-number">1.8.</span> <span class="nav-text">08 鸡胸肉咖喱饭（微辣）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#09-%E5%9B%BD%E8%8F%9C-%E8%8A%B9%E8%8F%9C%E7%82%92%E8%82%89-homade%E5%BE%AE%E6%B3%A2%E8%8A%9D%E5%A3%AB%E7%84%97%E5%9C%9F%E8%B1%86%E6%B3%A5"><span class="nav-number">1.9.</span> <span class="nav-text">09 国菜+芹菜炒肉+homade微波芝士焗土豆泥</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#10-%E8%9B%8B%E7%82%92%E9%A5%AD-%E6%B1%A4%E5%9C%86"><span class="nav-number">1.10.</span> <span class="nav-text">10 蛋炒饭+汤圆</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#11-%E7%BA%A2%E9%85%B1%E6%84%8F%E9%9D%A2"><span class="nav-number">1.11.</span> <span class="nav-text">11 红酱意面</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#12-%E7%BA%A2%E9%85%B1%E6%84%8F%E9%9D%A2%EF%BC%88%E5%89%A9%E4%BD%99%EF%BC%89"><span class="nav-number">1.12.</span> <span class="nav-text">12 红酱意面（剩余）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#13-%E9%B8%A1%E8%85%BF%E8%82%89%E5%92%96%E5%96%B1%E9%A5%AD"><span class="nav-number">1.13.</span> <span class="nav-text">13 鸡腿肉咖喱饭</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#14-%E7%99%BD%E9%85%B1%E6%84%8F%E9%9D%A2%EF%BC%88%E8%87%AA%E5%88%B6%E8%92%9C%E9%A6%99%E5%A5%B6%E6%B2%B9%E5%9F%B9%E6%A0%B9%E9%B2%9C%E8%99%BE%E8%8A%A6%E7%AC%8B%E8%A5%BF%E5%85%B0%E8%8A%B1%E6%84%8F%E9%9D%A2%EF%BC%89"><span class="nav-number">1.14.</span> <span class="nav-text">14 白酱意面（自制蒜香奶油培根鲜虾芦笋西兰花意面）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#15-%E5%B9%B3%E5%B9%B3%E6%97%A0%E5%A5%87%E4%B8%80%E4%BA%BA%E9%A3%9F%E9%B1%BC%E9%9C%B2%E8%9B%8B%E7%82%92%E9%A5%AD"><span class="nav-number">1.15.</span> <span class="nav-text">15 平平无奇一人食鱼露蛋炒饭</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#16-%E5%9B%BD%E8%8F%9C-%E9%9F%AD%E9%BB%84%E7%82%92%E8%82%89%E4%B8%9D"><span class="nav-number">1.16.</span> <span class="nav-text">16 国菜+韭黄炒肉丝</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#17-%E7%BA%A2%E9%85%B1%E6%84%8F%E9%9D%A2"><span class="nav-number">1.17.</span> <span class="nav-text">17 红酱意面</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#18-%E7%BA%A2%E9%85%B1%E6%84%8F%E9%9D%A2%EF%BC%88%E5%89%A9%E4%BD%99%EF%BC%89"><span class="nav-number">1.18.</span> <span class="nav-text">18 红酱意面（剩余）</span></a></li></ol></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Yanz Pei"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">Yanz Pei</p>
+  <div class="site-description" itemprop="description">文字归档存储器</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">33</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">13</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="mailto:pzsoul009@gmail.com" title="E-Mail → mailto:pzsoul009@gmail.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/YanzPei" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;YanzPei" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://weibo.com/Deca_05" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;Deca_05" rel="noopener" target="_blank"><i class="fab fa-weibo fa-fw"></i>Weibo</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://instagram.com/pyyyython" title="instagram → https:&#x2F;&#x2F;instagram.com&#x2F;pyyyython" rel="noopener" target="_blank"><i class="fab fa-instagram fa-fw"></i>instagram</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      朋友们
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://blog.chen-137.me/" title="https:&#x2F;&#x2F;blog.chen-137.me" rel="noopener" target="_blank">季子</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://rhythmlian.cn/" title="https:&#x2F;&#x2F;rhythmlian.cn" rel="noopener" target="_blank">Rhythm~</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="/images/16_16.ico"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Yanz Pei</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://pisces.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Pisces</a> 强力驱动
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script size="300" alpha="0.6" zIndex="-1" src="/lib/canvas-ribbon/canvas-ribbon.js"></script>
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+  <script defer src="/lib/three/three.min.js"></script>
+    <script defer src="/lib/three/three-waves.min.js"></script>
+    <script defer src="/lib/three/canvas_lines.min.js"></script>
+    <script defer src="/lib/three/canvas_sphere.min.js"></script>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el         : '#valine-comments',
+      verify     : false,
+      notify     : false,
+      appId      : 'iROnExGaBv0aNsXFWP7RNGbT-gzGzoHsz',
+      appKey     : 'kh4qInjPHEWKyBQ7o5uzCB2G',
+      placeholder: "说点什么",
+      avatar     : 'mm',
+      meta       : guest,
+      pageSize   : '10' || 10,
+      visitor    : true,
+      lang       : 'zh-cn' || 'zh-cn',
+      path       : location.pathname,
+      recordIP   : false,
+      serverURLs : ''
+    });
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>
